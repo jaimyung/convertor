@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CurrencyConvertor.iml" filepath="$PROJECT_DIR$/CurrencyConvertor.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/joomo-library-release/joomo-library-release.iml" filepath="$PROJECT_DIR$/joomo-library-release/joomo-library-release.iml" />
     </modules>
   </component>
 </project>
